@@ -1,5 +1,5 @@
 # OpenAI
-OpenAI - ChatPGT and Generative AI
+![Banner](Banner.png)
 ## Links
 ChatGPT Prompt Curation 
 GitHub f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better: https://github.com/f/awesome-chatgpt-prompts

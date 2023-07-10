@@ -13,13 +13,13 @@ A browser extension to provide various helper functions in Jupyter Notebooks and
 
 Primary functions, have ChatGPT/GPT-4:
 
-##### Format- Automatically add comments, docstrings, and formatting to your code cell.
-##### Explain- Explain the content of your code cell, ELI5 style.
-##### Debug- Help you debug an error message in your code cell.
-##### Complete- Help you complete a code snippet in your code cell.
-##### Review- Provide a code review of your code cell.
-##### Ask a question- Ask ChatGPT a custom question.
-##### Voice command- Ask ChatGPT a custom question through your microphone.
+* Format- Automatically add comments, docstrings, and formatting to your code cell.
+* Explain- Explain the content of your code cell, ELI5 style.
+* Debug- Help you debug an error message in your code cell.
+* Complete- Help you complete a code snippet in your code cell.
+* Review- Provide a code review of your code cell.
+* Ask a question- Ask ChatGPT a custom question.
+* Voice command- Ask ChatGPT a custom question through your microphone.
 Note: this requires an OpenAI API key and uses the OpenAI Whisper API, which charges $0.006 per minute.
 
 https://github.com/TiesdeKok/chat-gpt-jupyter-extension

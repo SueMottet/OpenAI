@@ -2,6 +2,21 @@
 ## ChatGPT
 ![Banner](Banner.png)
 ### Links
+#### OpenAI API
+https://platform.openai.com/docs/api-reference/introduction
+
+#### OpenAI API Cookbook GitHub
+GitHub - openai/openai-cookbook: Examples and guides for using the OpenAI API: https://github.com/openai/openai-cookbook
+
+##### Slides:
+https://drive.google.com/file/d/1dB-RQhZC_Q1iAsHkNNdkqtxxXqYODFYy/view
+
+#### OpenAI-Python Github
+https://github.com/openai/openai-python
+
+#### one-api-tool · PyPI
+https://pypi.org/project/one-api-tool/
+
 #### ChatGPT Prompt Curation 
 GitHub f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better: https://github.com/f/awesome-chatgpt-prompts
 #### Chrome Extensions and Plug Ins

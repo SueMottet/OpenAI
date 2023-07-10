@@ -24,4 +24,4 @@ Note: this requires an OpenAI API key and uses the OpenAI Whisper API, which cha
 
 https://github.com/TiesdeKok/chat-gpt-jupyter-extension
 
-https://chrome.google.com/webstore/detail/chatgpt-jupyter-ai-assist/
+https://chrome.google.com/webstore/detail/chatgpt-jupyter-ai-assist/dlipncbkjmjjdpgcnodkbdobkadiejll

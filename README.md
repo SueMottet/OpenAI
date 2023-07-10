@@ -1,4 +1,6 @@
 # OpenAI
+[OpenAI.com](https://openai.com/)
+
 ## ChatGPT
 ![Banner](Banner.png)
 ### Links

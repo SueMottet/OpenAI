@@ -42,3 +42,18 @@ Note: this requires an OpenAI API key and uses the OpenAI Whisper API, which cha
 https://github.com/TiesdeKok/chat-gpt-jupyter-extension
 
 https://chrome.google.com/webstore/detail/chatgpt-jupyter-ai-assist/dlipncbkjmjjdpgcnodkbdobkadiejll
+
+#### Chrome extension - WebChatGPT: ChatGPT with internet access
+This extension augments the bot so that it adds relevant web results to whatever you ask it. Upon entering a prompt, the extension lets ChatGPT search the web for relevant links. The bot then displays the search results and compiles information based on these links. You can further choose from different filters like time, region, and the number of results. You can even turn off the extension using the toggle to get native ChatGPT functionality back.
+
+https://chrome.google.com/webstore/detail/webchatgpt-chatgpt-with-i/lpfemeioodjbpieminkklglpmhlngfcn
+
+#### Chrome extension - ChatGPT for Google
+If you have used this AI chatbot, you know that ChatGPT is restricted to a single browser tab. So if you’re someone who wants it accessible at all times, you have to keep that tab open. This ChatGPT extension solves that problem and brings the bot to search engines. True to its name, the ChatGPT for Google extension displays ChatGPT’s response alongside Google search results. All you need to do to set up is log in to OpenAI using the extension, and you’re set.
+
+The extension comes alive anytime you’re using Google and doesn’t require any special prompts. To get started, simply search for any topic on Google as you would normally. Replacing the existing knowledge panel on the right, you will see a new ChatGPT panel in its place. This is where ChatGPT renders a response right from your Google search results. Since it treats your search query like a prompt, you don’t need to do anything else. Much like the website, ChatGPT here can provide responses, write code, answer questions, and more.
+
+https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf
+
+#### List of more extensions to explore
+https://beebom.com/best-chatgpt-chrome-extensions/

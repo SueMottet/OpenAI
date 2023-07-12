@@ -1,6 +1,22 @@
 # OpenAI
 [OpenAI.com](https://openai.com/)
 
+## OpenAI API
+https://platform.openai.com/docs/api-reference/introduction
+
+### OpenAI API Cookbook GitHub
+GitHub - openai/openai-cookbook: Examples and guides for using the OpenAI API: https://github.com/openai/openai-cookbook
+
+### Slides:
+https://drive.google.com/file/d/1dB-RQhZC_Q1iAsHkNNdkqtxxXqYODFYy/view
+OpenAI-Python GitHub
+https://github.com/openai/openai-python
+
+
+### One API tool - Python
+one-api-tool · PyPI: https://pypi.org/project/one-api-tool/
+
+
 ## ChatGPT
 ![Banner](Banner.png)
 ### Links
